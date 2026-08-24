@@ -1,0 +1,13 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+openai>=1.30
+anthropic>=0.30
+google-generativeai>=0.7
+
+# Optional: only needed for open-weight models run locally (provider "local")
+# torch>=2.1
+# transformers>=4.44
+# accelerate>=0.30
